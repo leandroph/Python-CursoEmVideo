@@ -1,3 +1,3 @@
 '''Crie um programa que escreva "Olá Mundo" na tela.'''
 
-print("Olá Mundo!")
+print("\033[34mOlá Mundo!")
