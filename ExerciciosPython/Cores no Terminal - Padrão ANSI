@@ -1,0 +1,27 @@
+\033[STYLE:TEXT:BACKm
+
+STYLE
+0 - none - nenhum estilo
+1 - bold - negrito
+4 - underline - sublinhado
+7 - negative - negativo, inverte
+
+TEXT - CORES DO TEXTO
+30 - BRANCO
+31 - VERMELHO
+32 - VERDE
+33 - AMARELHO
+34 - AZUL
+35 - MAZENTA
+36 - CIANO
+37 - CINZA
+
+BACK - CORES DO BACKGROUND
+40 - BRANCO
+41 - VERMELHO
+42 - VERDE
+43 - AMARELHO
+44 - AZUL
+45 - MAZENTA
+46 - CIANO
+47 - CINZA

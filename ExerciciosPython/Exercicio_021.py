@@ -4,7 +4,7 @@
 from pygame import *
 
 mixer.init()
-mixer.music.load("Exercicio 021.mp3")
+mixer.music.load("Exercicio_021.mp3")
 mixer.music.play()
 
 while mixer.music.get_busy():

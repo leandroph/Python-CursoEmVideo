@@ -1,4 +1,6 @@
-Exercício Python 002: Faça um programa que leia o nome de uma 
+Exercício Python 001: Crie um programa que escreva "Olá Mundo" na tela.
+
+Exercício Python 002: Faça um programa que leia o nome de uma
 pessoa e mostre uma mensagem de boas-vindas.
 
 Exercício Python 003: Crie um programa que leia dois números e 
