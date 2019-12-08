@@ -12,7 +12,7 @@ num = (int(input("Digite um número")),
 print(num)
 print("O número nove apareceu {}".format(num.count(9)))
 if 3 in num:
-    print("O numero 3 apareceu na {} posição".format(num.index(3)))
+    print("O numero 3 apareceu na {} posição".format(num.index(3)+1))
 else:
     print("O número 3 não se encontra na tupla")
 for n in num:
