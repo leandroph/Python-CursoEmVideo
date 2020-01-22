@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Python-CursoEmVideo.iml" filepath="$PROJECT_DIR$/.idea/Python-CursoEmVideo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpotifyUltimatePlaylist-master/.idea/SpotifyUltimatePlaylist-master.iml" filepath="$PROJECT_DIR$/../SpotifyUltimatePlaylist-master/.idea/SpotifyUltimatePlaylist-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../TesteOpenCV/.idea/TesteOpenCV.iml" filepath="$PROJECT_DIR$/../../TesteOpenCV/.idea/TesteOpenCV.iml" />
     </modules>
   </component>
 </project>
